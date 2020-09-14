@@ -1,0 +1,21 @@
+total 68
+drwxrwxr-x 2 nyamusi nyamusi 4096 Ful 14 14:32 .
+drwxrwxr-x 5 nyamusi nyamusi 4096 Ful 14 11:30 ..
+-rwxrw-r-- 1 nyamusi nyamusi   32 Ful 14 12:37 0-hello_world
+-rw-rw-r-- 1 nyamusi nyamusi    0 Ful 14 11:31 0-hello_world~
+-rwxrw-r-- 1 nyamusi nyamusi   28 Ful 14 12:54 1-confused_smiley
+-rwxrw-r-- 1 nyamusi nyamusi   29 Ful 14 12:54 1-confused_smiley~
+-rwxrw-r-- 1 nyamusi nyamusi   28 Ful 14 12:58 2-hellofile
+-rwxrw-r-- 1 nyamusi nyamusi   40 Ful 14 13:03 3-twofiles
+-rw-rw-r-- 1 nyamusi nyamusi   39 Ful 14 13:03 3-twofiles~
+-rwxrw-r-- 1 nyamusi nyamusi   33 Ful 14 13:09 4-lastlines
+-rw-rw-r-- 1 nyamusi nyamusi   32 Ful 14 13:09 4-lastlines~
+-rwxrw-r-- 1 nyamusi nyamusi   35 Ful 14 13:14 5-firstlines
+-rwxrw-r-- 1 nyamusi nyamusi   37 Ful 14 13:22 6-third_line
+-rw-rw-r-- 1 nyamusi nyamusi   17 Ful 14 13:18 6-third_line~
+-rwxrw-r-- 1 nyamusi nyamusi   90 Ful 14 14:20 7-file
+-rwxrw-r-- 1 nyamusi nyamusi   89 Ful 14 14:17 7-file~
+-rwxrw-r-- 1 nyamusi nyamusi   36 Ful 14 14:30 8-cwd_state
+-rw-rw-r-- 1 nyamusi nyamusi    0 Ful 14 14:32 ls_cwd_content
+-rw-rw-r-- 1 nyamusi nyamusi   39 Ful 14 12:45 README.md
+-rw-rw-r-- 1 nyamusi nyamusi    0 Ful 14 12:43 README.md~
