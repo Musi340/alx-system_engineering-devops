@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name 'a-z' 'A-Z'
+find -type f -iname '*'|echo '[az]*'  
